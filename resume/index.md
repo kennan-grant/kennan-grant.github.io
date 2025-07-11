@@ -24,7 +24,7 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 
 **Software Engineer**
 Simpliphy – Physician Compensation Software • _2024_
-- As the third engineer to be granted equity in the company, played a key role in early product development.
+- First non-founding engineer to be granted equity in the company
 - Developed an administrator-manual chatbot (OpenAI API + React) that streamlined access to critical documentation for hospital staff.
 
 **Data Science Engineer**
