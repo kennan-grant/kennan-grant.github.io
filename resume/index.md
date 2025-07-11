@@ -15,10 +15,6 @@ Multidisciplinary software and data engineer with deep experience in backend dev
 
 ### Experience
 
-**Software Engineer**  
-Simpliphy – Physician Compensation Software • _2024_  
-- Promoted to Machine Learning Engineer & Data Strategist within 10 months after delivering key platform improvements and doubling compensation.
-
 **Machine Learning Engineer & Data Strategist**  
 Simpliphy – Physician Compensation Software • _2024 – Present_  
 - Promoted within 10 months and granted three performance-based raises after delivering key platform improvements and doubling compensation.  
@@ -27,10 +23,15 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 - Built **dash**, a Go-based CLI that leverages LLM APIs to analyze and refactor SQL, reducing manual query tuning.  
 - Developed an administrator-manual chatbot (OpenAI API + React) that streamlined access to critical documentation for hospital staff.
 
+**Software Engineer**  
+Simpliphy – Physician Compensation Software • _2024_  
+- Joined as an early engineer and overhauled the compensation-calculation module, achieving a 3× performance boost while raising test coverage from 40 % to 85 %.  
+- Introduced CI/CD pipelines and coding standards that cut release times by 40 %, paving the way for promotion to Machine Learning Engineer & Data Strategist.
+
 **Data Science Engineer**  
 Metis Machine – Charlottesville, VA • _2018_  
 - Built an ML pipeline for a classification model in Python and Spark SQL.  
-- Detected and removed a “future leak” in legacy training data that had inflated accuracy by 25 percentage points.  
+- Detected and removed a “future leak” in legacy training data that had inflated accuracy by **25 percentage points**.  
 - Engineered new features and retrained the model on clean data, restoring reliable performance.
 
 **Data Analyst**  
@@ -64,4 +65,4 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 
 ### Additional Achievements
 - SAT: 99th percentile  
-- Data-Structures & Algorithms: Exceeded Amazon SWE benchmark on BloomTech’s proctored assessment
+- Data Structures & Algorithms: Exceeded Amazon SWE benchmark on BloomTech’s proctored assessment
