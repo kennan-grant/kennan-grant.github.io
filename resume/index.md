@@ -15,6 +15,10 @@ Multidisciplinary software and data engineer with deep experience in backend dev
 
 ### Experience
 
+**Software Engineer**  
+Simpliphy – Physician Compensation Software • _2024_  
+- Promoted to Machine Learning Engineer & Data Strategist within 10 months after delivering key platform improvements and doubling compensation.
+
 **Machine Learning Engineer & Data Strategist**  
 Simpliphy – Physician Compensation Software • _2024 – Present_  
 - Promoted within 10 months and granted three performance-based raises after delivering key platform improvements and doubling compensation.  
@@ -26,7 +30,7 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 **Data Science Engineer**  
 Metis Machine – Charlottesville, VA • _2018_  
 - Built an ML pipeline for a classification model in Python and Spark SQL.  
-- Detected and removed a “future leak” in legacy training data that had inflated accuracy by 25 pp.  
+- Detected and removed a “future leak” in legacy training data that had inflated accuracy by 25 percentage points.  
 - Engineered new features and retrained the model on clean data, restoring reliable performance.
 
 **Data Analyst**  
@@ -38,7 +42,6 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 ---
 
 ### Education
-**Backend Development Program** – BloomTech • _2023 – 2024_  
 **M.S., Data Science** – University of Virginia • _2017 – 2018_ • GPA 3.93  
 **M.S., Commerce** – University of Virginia • _2014 – 2015_  
 **B.A., English Literature** – University of Virginia • _2010 – 2014_
