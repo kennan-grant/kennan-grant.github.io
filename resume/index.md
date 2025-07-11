@@ -25,7 +25,7 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 **Software Engineer**
 Simpliphy – Physician Compensation Software • _2024_
 - Earned equity as the first non-founding engineer due to outsized contributions early in company growth
-- Developed an administrator-manual chatbot (OpenAI API + React) that streamlined access to critical documentation for hospital staff.
+- Developed an administrator-manual chatbot (OpenAI API + React) that streamlined access to documentation for hospital administrators.
 
 **Data Science Engineer**
 Metis Machine – Charlottesville, VA • _2018_
