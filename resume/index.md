@@ -1,3 +1,8 @@
+---
+layout: default
+title: Resume
+---
+
 Kennan Grant
 Greenville, SC | 864-414-5172 | kennangrant@gmail.com
 
