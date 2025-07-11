@@ -8,12 +8,16 @@ Greenville, SC | 864-414-5172 | kennangrant@gmail.com
 
 ### Summary
 
-Innovative Machine Learning Engineer and Data Strategist with a record of 
-pioneering AI-driven solutions that enhance product functionality and 
-business intelligence. Expert in translating complex data into actionable 
-strategies, architecting robust data systems, and leading projects from 
-ideation to deployment. Recognized for exceptional technical leadership 
-and rapid advancement.
+Software/Data Engineering + Predictive Modeling/Machine Learning + LLMs/AI + Data Analysis + Business
+
+My education and experience are uncommonly broad, but I'm substantially deeper and more technical than the other "generalist"s.
+
+I am a technical problem solver and leader. I have education and experience across an unusually broad array of interrelated domains, which allows me to move up-and-down the problem layers, from marketing strategy to bit-flipping algorithm optimizations.
+ 
+- technical
+- comfortable with ambiguity
+- 
+- I have more perspective than your specialists, . I'm a technical leader, unafraid of ambiguity
 
 ### Experience
 
