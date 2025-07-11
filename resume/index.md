@@ -21,6 +21,7 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 - Replaced Tableau with a code-first reporting stack by forking and extending Evidence.dev, improving version control and extensibility.
 - Designed a dynamic multi-tenant data-loading pipeline that serves bespoke datasets to multiple clients from a single codebase.
 - Built **dash**, a Go-based CLI that leverages LLM APIs to analyze and refactor SQL, reducing manual query tuning.
+- Architected and shipped a fully client-side Work-RVU Attribution calculator for the marketing site, implementing DuckDB-WASM for performant in-browser analytics — eliminating backend costs, preserving data privacy, and converting visitors into qualified sales leads.
 
 **Software Engineer**
 Simpliphy – Physician Compensation Software • _2024_
