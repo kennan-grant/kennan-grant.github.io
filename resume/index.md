@@ -9,7 +9,7 @@ Greenville, SC • 864-414-5172 • kennangrant@gmail.com
 ---
 
 ### Summary
-Multidisciplinary software and data engineer with deep experience in backend development, predictive modeling, and AI/LLM applications. Adept at moving across the stack—from product strategy to low-level performance tuning—to deliver scalable, high-impact solutions in healthcare and other data-rich domains.
+Multidisciplinary software and data engineer with experience in backend development, frontend development, predictive statistical modeling, data analysis, and AI/LLM applications. Adept at moving across the stack—from product strategy to low-level performance tuning—to deliver scalable, high-impact solutions in data-rich domains.
 
 ---
 
