@@ -4,8 +4,18 @@ title: Resume
 ---
 
 <style>
-  h1 {
-    color: black;
+  h1 a {
+    color: black; /* This specifically targets anchor tags inside h1 and sets their color */
+    text-decoration: none; /* Optional: remove the underline if you don't want it */
+  }
+
+  /* You might also want to consider hover/active/visited states for the link */
+  h1 a:hover {
+    color: darkgray; /* Example: make it darker on hover */
+  }
+
+  h1 a:visited {
+    color: black; /* Keep visited links black */
   }
 </style>
 
