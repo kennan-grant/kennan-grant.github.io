@@ -3,15 +3,6 @@ layout: default
 title: Resume
 ---
 
-<style>
-/* ① raise specificity */
-.site-header .site-title { font-size: 1.4rem; }
-
-/* ② or—last resort—use !important */
-.site-title { font-size: 1.4rem !important; }
-</style>
-
-# Kennan Grant
 Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 
 ---
