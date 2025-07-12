@@ -66,7 +66,7 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 
 ### Awards & Recognition
 - Beta Gamma Sigma – Highest academic honor (UVA McIntire)
-- Winner – Class-wide statistical-modeling competition, with lowest ever error rate (UVA)
+- Winner – Class-wide statistical-modeling competition, with lowest error ever (UVA)
 - Best Analyst – Peer-voted (UVA)
 - #1 Class Rank - Notoriously challenging quantitative finance course (UVA McIntire)
 
