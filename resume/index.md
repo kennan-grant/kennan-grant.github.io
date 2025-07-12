@@ -3,6 +3,12 @@ layout: default
 title: Resume
 ---
 
+<style>
+  h1 {
+    color: black;
+  }
+</style>
+
 Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 
 ---
