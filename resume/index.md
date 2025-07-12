@@ -4,12 +4,11 @@ title: Resume
 ---
 
 <style>
-/* Page-specific tweaks */
-.site-title, .page-title {
-  font-size: 1.4rem;   /* your chosen size */
-  font-weight: 600;
-  line-height: 1.2;
-}
+/* ① raise specificity */
+.site-header .site-title { font-size: 1.4rem; }
+
+/* ② or—last resort—use !important */
+.site-title { font-size: 1.4rem !important; }
 </style>
 
 # Kennan Grant
