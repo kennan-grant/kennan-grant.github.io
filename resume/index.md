@@ -32,7 +32,7 @@ Multidisciplinary software and data engineer with experience in backend developm
 
 **Machine Learning Engineer & Data Strategist**
 Simpliphy – Physician Compensation Software • _2024 – Present_
-- Promoted within 4 months and granted three performance-based raises, doubling compensation, in the first 10 months — after leading data product platform improvements.
+- Promoted within 4 months and granted 3 performance-based raises, doubling compensation, in the first 10 months — after leading data product platform improvements.
 - Earned equity, the first non-founding engineer to do so.
 - Replaced Tableau with a code-first reporting stack by forking and extending Evidence.dev, improving version control and extensibility.
 - Designed a dynamic multi-tenant data-loading pipeline that serves bespoke datasets to multiple clients from a single codebase.
