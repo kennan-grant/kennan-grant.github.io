@@ -3,6 +3,11 @@ layout: default
 title: Resume
 ---
 
+
+<style>
+.site-title { display: none; }          /* hide the blue link entirely */
+</style>
+
 # Kennan Grant
 Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 
