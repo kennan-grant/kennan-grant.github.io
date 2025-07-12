@@ -65,4 +65,4 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 
 ### Additional Achievements
 - SAT: 99th percentile
-- Data-Structures & Algorithms: Exceeded Amazon SWE benchmark on BloomTech’s proctored assessment
+- Data-Structures & Algorithms: Exceeded Amazon SWE benchmark on BloomTech’s proctored assessment with one the highest scores in the program's history.
