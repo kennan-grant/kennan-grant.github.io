@@ -5,7 +5,7 @@ title: Resume
 
 
 <style>
-.site-title { display: none; }          /* hide the blue link entirely */
+.page-title { display: none; }          /* hide the blue link entirely */
 </style>
 
 # Kennan Grant
