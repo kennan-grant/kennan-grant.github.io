@@ -3,9 +3,13 @@ layout: default
 title: Resume
 ---
 
-
 <style>
-.page-title { display: none; }          /* hide the blue link entirely */
+/* Page-specific tweaks */
+.site-title, .page-title {
+  font-size: 1.4rem;   /* your chosen size */
+  font-weight: 600;
+  line-height: 1.2;
+}
 </style>
 
 # Kennan Grant
