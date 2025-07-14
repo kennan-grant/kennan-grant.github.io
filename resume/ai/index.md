@@ -46,13 +46,12 @@ I lead from that same integrated, multi-disciplinary perspective. Cross-departme
 - Created the company "Artificial Intelligence" Teams channel and used it to promote awareness and dialogue
 - Successfully pushed for greater investment in LLM-powered coding workflows for engineers and analysts at Simpliphy
 
-**Data Science Engineer** Metis Machine (later Skafos.ai) - ML Deployment Platform Startup • _2018_
+**Data Science Engineer*** | Metis Machine (later Skafos.ai) - ML Deployment Platform Startup • _2018_
 - Contributed to production ML systems at a startup backed by Quantitative Investment Management (QIM), whose $120 million gift founded UVA's School of Data Science.
 - Built an ML pipeline for a classification model in Python and Spark SQL.
 - Detected and removed a “future leak” in legacy training data that had inflated accuracy by 25 percentage points.
 
-**Data Analyst**  
-Elder Research – Machine-Learning Consultancy • _2016 – 2017_
+**Data Analyst** | Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 - Contributed to production ML systems at one of the industry’s longest-standing machine-learning consultancies.
 - Developed and deployed a logistic-regression model to predict donor propensity for a university fundraising campaign.
 - Built a patient no-show prediction model that informed scheduling optimizations.
