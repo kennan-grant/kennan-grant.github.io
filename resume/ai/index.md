@@ -32,8 +32,7 @@ I lead from that same integrated, multi-disciplinary perspective. Cross-departme
 
 ### Experience
 
-**Machine Learning Engineer & Data Strategist**  
-Simpliphy – Physician Compensation Software • _2024 – Present_
+**Machine Learning Engineer & Data Strategist**| Simpliphy – Physician Compensation Software • _2024 – Present_
 - Promoted within 4 months and granted 3 performance-based raises, doubling compensation, in the first 10 months — after leading data product platform improvements.
 - Earned equity, the first non-founding engineer to do so.
 - Built **dash**, a Go-based CLI that leverages LLM APIs to analyze and refactor MySQL stored procedures, reducing manual tuning.
