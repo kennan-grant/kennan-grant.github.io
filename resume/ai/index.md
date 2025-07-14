@@ -45,7 +45,7 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 Simpliphy – Physician Compensation Software • _2024_
 - Developed an administrator-manual chatbot (OpenAI API + React) that streamlined access to documentation for hospital administrators.
 - Started and ran a weekly "a.i. a.i., Captain..." Artificial Intelligence tech talk show-and-tell block, every Friday at 1pm
-- Created the company "Artificial Intelligence" Teams channel and used it to shape company awareness of developments in the space.
+- Created the company "Artificial Intelligence" Teams channel and used it to promote awareness and dialogue
 - Successfully pushed for greater investment in LLM-powered coding workflows for engineers and analysts at Simpliphy
 
 **Data Science Engineer**
