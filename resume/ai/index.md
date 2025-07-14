@@ -40,15 +40,13 @@ I lead from that same integrated, multi-disciplinary perspective. Cross-departme
 - Designed a dynamic multi-tenant data-loading pipeline that serves bespoke datasets to multiple clients from a single codebase.
 - Architected and shipped a fully client-side Work-RVU Attribution calculator for the marketing site, implementing DuckDB-WASM for performant in-browser analytics — precluding greater server costs, preserving data privacy, and converting visitors into qualified sales leads.
 
-**Software Engineer**  
-Simpliphy – Physician Compensation Software • _2024_
+**Software Engineer** | Simpliphy – Physician Compensation Software • _2024_
 - Developed an administrator-manual chatbot (OpenAI API + React) that streamlined access to documentation for hospital administrators.
 - Started and ran a weekly "a.i. a.i., Captain..." Artificial Intelligence tech talk show-and-tell block, every Friday at 1pm
 - Created the company "Artificial Intelligence" Teams channel and used it to promote awareness and dialogue
 - Successfully pushed for greater investment in LLM-powered coding workflows for engineers and analysts at Simpliphy
 
-**Data Science Engineer**  
-Metis Machine (later Skafos.ai) - ML Deployment Platform Startup • _2018_
+**Data Science Engineer** Metis Machine (later Skafos.ai) - ML Deployment Platform Startup • _2018_
 - Contributed to production ML systems at a startup backed by Quantitative Investment Management (QIM), whose $120 million gift founded UVA's School of Data Science.
 - Built an ML pipeline for a classification model in Python and Spark SQL.
 - Detected and removed a “future leak” in legacy training data that had inflated accuracy by 25 percentage points.
