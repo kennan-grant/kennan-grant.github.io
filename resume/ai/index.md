@@ -24,9 +24,9 @@ Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 ---
 
 ### The Gist
-I build with LLM's not just as an engineer, but as an intuitive. In addition to my work experience and coursework in reinforcement learning, machine learning, and text mining, my bachelor's was in english literature, I have 21 credit hours of clinical mental health therapist training, I once upon a time won a creative writing award, and way back in high school I scored a perfect 800 on the Critical Reading section of the SAT. Words and ["theory of mind"](https://en.wikipedia.org/wiki/Theory_of_mind) were my first home.
+I build with LLMs by combining technical expertise with deep intuition. In addition to my work experience and coursework in reinforcement learning, machine learning, and text mining, my bachelor’s was in English literature and I have 21 credit hours of clinical mental health therapist training. Words and ["theory of mind"](https://en.wikipedia.org/wiki/Theory_of_mind) are my first home.
 
-I lead from that same integrated, multi-disciplinary perspective. Cross-departmental collaboration? That's my comfort zone.
+I lead from that same integrated, multi-disciplinary perspective. Cross-departmental collaboration is my comfort zone.
 
 ---
 
