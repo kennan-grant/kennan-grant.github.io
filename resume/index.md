@@ -30,7 +30,7 @@ Multidisciplinary software and data engineer with experience in backend developm
 
 ### Experience
 
-**Machine Learning Engineer & Data Strategist**
+**Machine Learning Engineer & Data Strategist**  
 Simpliphy – Physician Compensation Software • _2024 – Present_
 - Promoted within 4 months and granted 3 performance-based raises, doubling compensation, in the first 10 months — after leading data product platform improvements.
 - Earned equity, the first non-founding engineer to do so.
@@ -39,12 +39,12 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 - Built **dash**, a Go-based CLI that leverages LLM APIs to analyze and refactor SQL, reducing manual query tuning.
 - Architected and shipped a fully client-side Work-RVU Attribution calculator for the marketing site, implementing DuckDB-WASM for performant in-browser analytics — eliminating backend costs, preserving data privacy, and converting visitors into qualified sales leads.
 
-**Software Engineer**
+**Software Engineer**  
 Simpliphy – Physician Compensation Software • _2024_
 - Developed an administrator-manual chatbot (OpenAI API + React) that streamlined access to documentation for hospital administrators.
 
-**Data Science Engineer**
-Metis Machine – Charlottesville, VA • _2018_
+**Data Science Engineer**  
+Metis Machine – ML Deployment Platform Startup • _2018_
 - Built an ML pipeline for a classification model in Python and Spark SQL.
 - Detected and removed a “future leak” in legacy training data that had inflated accuracy by 25 percentage points.
 - Engineered new features and retrained the model on clean data, restoring reliable performance.
