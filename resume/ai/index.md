@@ -49,7 +49,7 @@ Simpliphy – Physician Compensation Software • _2024_
 - Successfully pushed for greater investment in LLM-powered coding workflows for engineers and analysts at Simpliphy
 
 **Data Science Engineer**  
-Metis Machine (later Skafos.ai) • _2018_
+Metis Machine (later Skafos.ai) - ML Deployment Platform Startup • _2018_
 - Contributed to production ML systems at a startup backed by Quantitative Investment Management (QIM), whose $120 million gift founded UVA's School of Data Science.
 - Built an ML pipeline for a classification model in Python and Spark SQL.
 - Detected and removed a “future leak” in legacy training data that had inflated accuracy by 25 percentage points.
