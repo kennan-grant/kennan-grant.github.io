@@ -74,7 +74,7 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 - **Languages:** Python, SQL, Go, Bash, JavaScript, HTML/CSS
 - **Data Platforms & AI:** Snowflake, DBT, Spark, OpenAI API
 - **Containerization & CI/CD:** Docker, Git/GitHub Actions
-- **Web & Tooling:** SvelteKit, DuckDB
+- **Web & Tooling:** SvelteKit, DuckDB WASM
 
 ---
 
