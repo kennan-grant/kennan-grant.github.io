@@ -34,7 +34,7 @@ Multidisciplinary software and data engineer with experience in backend developm
 Simpliphy – Physician Compensation Software • _2024 – Present_
 - Promoted within 4 months and granted 3 performance-based raises, doubling compensation, in the first 10 months — after leading data product platform improvements.
 - Replaced Tableau with a code-first reporting stack by forking and extending Evidence.dev, improving version control and extensibility.
-- Built **dash**, a Go-based CLI that integrates the OpenAI Responses API to automatically investigate, tune, and update inefficient MySQL
+- Built **dash**, a Go-based CLI that integrates the OpenAI Responses API to automatically investigate and optimize inefficient MySQL
 - Architected and shipped a fully client-side Work-RVU Attribution calculator for the marketing site, implementing DuckDB-WASM for performant in-browser analytics — eliminating backend costs, preserving data privacy, and converting visitors into qualified sales leads.
 
 **Software Engineer**
