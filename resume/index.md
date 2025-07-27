@@ -39,7 +39,7 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 
 **Software Engineer**
 Simpliphy – Physician Compensation Software • _2024_
-- Developed a hospital administrator-manual chatbot (OpenAI API + React) that streamlined access to documentation
+- Developed a hospital administrator-manual chatbot (OpenAI API + React + GitHub Actions) that streamlined access to documentation
 
 **Data Science Engineer**
 Metis Machine – ML Deployment Platform Startup • _2018_
