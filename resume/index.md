@@ -24,7 +24,7 @@ Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 ---
 
 ### The Gist
-Multidisciplinary software and data engineer with experience in backend development, frontend development, predictive statistical modeling, data analysis, and AI/LLM applications. Adept at moving across the stack—from product strategy to low-level performance tuning.
+Full‑stack engineer who ships pragmatic, reliable systems and communicates clearly with stakeholders. Recently delivered a self‑hosted analytics platform (Go, React, Docker, Nginx, Azure) that cut latency by 93% and replaced a legacy BI tool with a maintainable, version‑controlled workflow.
 
 ---
 
@@ -32,14 +32,15 @@ Multidisciplinary software and data engineer with experience in backend developm
 
 **Machine Learning Engineer & Data Strategist**
 Simpliphy – Physician Compensation Software • _2024 – Present_
+- Proposed, designed, engineered, and deployed a full-stack analytics web application to replace Tableau; self-hosted on Azure (single-node VM) with Dockerized Golang API and Nginx‑served React SPA; CI via GitHub Actions; integrated with a sister app for authentication through Redis-backed session sharing.
+- Implemented a multi-engine data layer across MySQL, DuckDB, and Snowflake; added saved reports, scheduled email delivery, and an auditable, version-controlled logic layer that improves maintainability and development velocity.
+- Achieved a 93% latency reduction on the heaviest analytics workflows and eliminated UI freezes; improved UX, aesthetics, and reliability while removing vendor lock-in with a fully open-source, self-hosted stack.
+- Selected the architecture and technologies, migrated critical business logic, and rebuilt the system from scratch.
 - Promoted within 4 months and granted 3 performance-based raises, doubling compensation, in the first 10 months — after leading data product platform improvements.
-- Replaced Tableau with a code-first reporting stack by forking and extending Evidence.dev, improving version control and extensibility.
-- Built **dash**, a Go-based CLI that integrates the OpenAI Responses API to automatically investigate and optimize production MySQL
-- Architected and shipped a fully client-side Work-RVU Attribution calculator for the marketing site, implementing DuckDB-WASM for performant in-browser analytics — eliminating backend costs, preserving data privacy, and converting visitors into qualified sales leads.
 
 **Software Engineer**
 Simpliphy – Physician Compensation Software • _2024_
-- Developed a hospital administrator-manual chatbot (OpenAI API + React + GitHub Actions) that streamlined access to documentation
+- Built a documentation chatbot (React + GitHub Actions) that streamlined access to hospital administrator manuals
 
 **Data Science Engineer**
 Metis Machine – ML Deployment Platform Startup • _2018_
@@ -70,13 +71,7 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 ---
 
 ### Technical Skills
-- **Languages:** Python, SQL, Go, Bash, JavaScript, HTML/CSS
-- **Data Platforms & AI:** Snowflake, DBT, Spark, OpenAI API
-- **Containerization & CI/CD:** Docker, Git/GitHub Actions
-- **Web & Tooling:** SvelteKit, DuckDB WASM
+- **Languages:** Go, JavaScript, CSS, HTML, Python, SQL (DuckDB, MySQL)
+- **Frameworks:** React
+- **Infrastructure & DevOps:** Docker, Nginx, Redis, Azure, GitHub Actions
 
----
-
-### Additional Achievements
-- SAT: 99th percentile
-- Data-Structures & Algorithms: Exceeded Amazon SWE benchmark on BloomTech’s proctored assessment with one of the highest scores in the program's history.
