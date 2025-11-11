@@ -33,11 +33,12 @@ I build full-stack systems. Recently shipped an analytics platform that's 93% fa
 Simpliphy – Physician Compensation Software • _2024 – Present_
 - Proposed, designed, engineered, and deployed a full-stack analytics web application to replace Tableau; self-hosted on Azure (single-node VM) with Dockerized Golang API and Nginx‑served React SPA; CI via GitHub Actions; integrated with a sister app for authentication through Redis-backed session sharing.
 - Achieved a 93% latency reduction on the heaviest analytics workflows and eliminated UI freezes; improved UX, aesthetics, and reliability while removing vendor lock-in with a fully open-source, self-hosted stack.
-- First non-founding engineer to receive equity; promoted within 4 months
+- First non-founding engineer to receive equity.
+- Promoted after 4 months.
 
 **Software Engineer**
 Simpliphy – Physician Compensation Software • _2024_
-- Built a documentation chatbot back when that was cool
+- Built a documentation chatbot back when that was cool.
 
 **Data Science Engineer**
 Metis Machine – ML Deployment Platform Startup • _2018_
