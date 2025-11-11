@@ -23,7 +23,6 @@ Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 
 ---
 
-### The Gist
 I build full-stack systems. Recently shipped an analytics platform that's 93% faster than the Tableau setup it replaced.
 
 ---
