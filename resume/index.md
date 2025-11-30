@@ -63,12 +63,10 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 
 ### Education
 - **M.S., Data Science** – University of Virginia • _2017 – 2018_<br>
-  **GPA** 3.93
-  **Winner** – Class-wide statistical-modeling competition, with the lowest recorded error in the competition's history
-  **Best Analyst** - Peer-voted
-- **M.S., Commerce** – University of Virginia • _2014 – 2015_  
-  **Beta Gamma Sigma** – Highest academic honor (UVA McIntire)
+  GPA **3.93**<br>
+  Winner – Class-wide statistical-modeling competition, with the lowest recorded error in the competition's history<br>
+  Best Analyst - Peer-voted<br>
+- **M.S., Commerce** – University of Virginia • _2014 – 2015_<br>
+  Highest academic honor - Beta Gamma Sigma
 - **B.A., English Literature** – University of Virginia • _2010 – 2014_
-  
----
 
