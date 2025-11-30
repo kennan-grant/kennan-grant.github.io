@@ -67,7 +67,7 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
   - Winner – Class-wide statistical-modeling competition, with the lowest recorded error in the competition's history<br>
   - Best Analyst - Peer-voted<br>
 - **M.S., Commerce** – University of Virginia • _2014 – 2015_<br>
-  - 1st rank in class (quantitative finance, course)
+  - 1st rank in class (quantitative finance)
   - Highest academic honor - Beta Gamma Sigma
 - **B.A., English Literature** – University of Virginia • _2010 – 2014_
 
