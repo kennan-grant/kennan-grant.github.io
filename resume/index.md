@@ -55,7 +55,7 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 ---
 
 ### Technical Skills
-- **Languages:** Go, JavaScript, CSS, HTML, Python, SQL (DuckDB, MySQL)
+- **Languages:** Go, SQL (DuckDB, MySQL), JavaScript 
 - **Frameworks:** React
 - **Infrastructure & DevOps:** Docker, Nginx, Redis, Azure, GitHub Actions
 
