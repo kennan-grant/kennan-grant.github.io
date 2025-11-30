@@ -62,7 +62,7 @@ Elder Research – Machine-Learning Consultancy • _2016 – 2017_
 ---
 
 ### Education
-- **M.S., Data Science** – University of Virginia • _2017 – 2018_
+- **M.S., Data Science** – University of Virginia • _2017 – 2018_<br>
   **GPA** 3.93
   **Winner** – Class-wide statistical-modeling competition, with the lowest recorded error in the competition's history
   **Best Analyst** - Peer-voted
