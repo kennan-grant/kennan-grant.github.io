@@ -23,7 +23,7 @@ Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 
 ---
 
-I build full-stack systems. Recently shipped an analytics platform that's 93% faster than the Tableau it replaced.
+I build high-performance, full-stack systems. At the software product company where I work, I recently shipped an analytics platform that's 93% faster than the Tableau it replaced.
 
 ---
 
