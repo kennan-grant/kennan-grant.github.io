@@ -30,7 +30,7 @@ I build full-stack systems. Recently shipped an analytics platform that's 93% fa
 ### Experience
 
 **Software Engineer II**
-Simpliphy – Physician Compensation Software • _2024 – Present_
+... Simpliphy – Physician Compensation Software • _2024 – Present_
 - Architected, built, deployed, and extended a full-stack analytics web application that replaced Tableau
 - Achieved a 93% latency reduction on the most computationally intensive dashboards
 - Designed high-performance architecture: MySQL (db) -> DuckDB (cache) -> Golang (api) -> Nginx (proxy) -> React (spa)
@@ -38,7 +38,7 @@ Simpliphy – Physician Compensation Software • _2024 – Present_
 - Promoted after 4 months.
 
 **Software Engineer I** | 
-Simpliphy – Physician Compensation Software • _2024_
+... Simpliphy – Physician Compensation Software • _2024_
 - Built a documentation chatbot back when that was cool.
 
 **Data Science Engineer** 
