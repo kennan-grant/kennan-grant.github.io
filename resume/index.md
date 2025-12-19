@@ -35,7 +35,7 @@ I build full-stack systems. Recently shipped an analytics platform that's 93% fa
 - Achieved a 93% latency reduction on the heaviest analytics workflows and eliminated UI freezes; improved UX, aesthetics, and reliability while removing vendor lock-in with a fully open-source, self-hosted stack.
 - Promoted after 4 months.
 
-**Software Engineer I** 
+**Software Engineer I**<br>
 Simpliphy – Physician Compensation Software • _2024_
 - Built a documentation chatbot back when that was cool.
 
