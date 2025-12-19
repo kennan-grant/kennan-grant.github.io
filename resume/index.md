@@ -30,10 +30,10 @@ I build high-performance, full-stack systems. At the software product company wh
 ### Experience
 
 **Software Engineer II** _at_ Simpliphy (_2024 – Present_)
-- Architected, built, deployed, and extended a full-stack analytics web application that replaced Tableau
-- Achieved a 93% latency reduction on the most computationally intensive dashboards
+- Architected, built, deployed, and extended a full-stack analytics web application that replaced Tableau.
+- Achieved a 93% latency reduction on the most computationally intensive dashboards.
 - Designed high-performance architecture: MySQL (db) -> DuckDB (cache) -> Golang (api) -> Nginx (proxy) -> React (spa)
-- Improved UX, aesthetics, and reliability while removing vendor lock-in with a fully open-source, self-hosted stack
+- Improved UX, aesthetics, and reliability while removing vendor lock-in with a fully open-source, self-hosted stack.
 - Promoted after 4 months.
 
 **Software Engineer I** _at_ Simpliphy (_2024_)
