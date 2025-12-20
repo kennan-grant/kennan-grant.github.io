@@ -34,7 +34,6 @@ I build high-performance, full-stack systems. At the software product company wh
 - Achieved a 93% latency reduction on the most computationally intensive dashboards.
 - Designed high-performance architecture: MySQL (db) -> DuckDB (cache) -> Golang (api) -> Nginx (proxy) -> React (spa)
 - Improved UX, aesthetics, and reliability while removing vendor lock-in with a fully open-source, self-hosted stack.
-- Promoted after 4 months.
 
 **Software Engineer I** _at_ Simpliphy (_2024_)
 - Built a documentation chatbot back when that was cool.
