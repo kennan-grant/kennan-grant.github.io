@@ -51,10 +51,7 @@ I build high-performance, full-stack systems. In my current role at a software p
 ---
 
 ### Technical Skills
-- **Languages:** Go, SQL (DuckDB, MySQL), JavaScript 
-- **Frameworks:** React
-- **Infrastructure & DevOps:** Docker, Nginx, Redis, Azure, Linux (Debian), GitHub Actions
-
+- Full-stack systems architecture, performance engineering, data infrastructure, Linux systems, machine learning pipelines​​​​​​​​​​​​​​​​
 ---
 
 ### Education
