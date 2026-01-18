@@ -52,6 +52,7 @@ I build high-performance, full-stack systems. In my current role at a software p
 
 ### Technical Competencies
 - Full-stack systems architecture, performance engineering, data infrastructure, Linux systems, machine learning pipelines​​​​​​​​​​​​​​​​
+
 ---
 
 ### Education
