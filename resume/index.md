@@ -23,7 +23,7 @@ Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 
 ---
 
-I build high-performance, full-stack systems. In my current role at a software product company, I recently shipped an analytics platform that is 93% faster than the Tableau it replaced.
+I build high-performance data systems. In my current role at a software product company, I recently shipped an analytics platform that is 93% faster than the Tableau it replaced.
 
 ---
 
@@ -51,7 +51,7 @@ I build high-performance, full-stack systems. In my current role at a software p
 ---
 
 ### Technical Competencies
-- Full-stack systems architecture, performance engineering, data infrastructure, Linux systems, machine learning pipelines​​​​​​​​​​​​​​​​
+- Database internals, performance engineering, Zig
 
 ---
 
