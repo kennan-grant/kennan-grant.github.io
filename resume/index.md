@@ -23,14 +23,14 @@ Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 
 ---
 
-I build high-performance data systems. In my current role at a software product company, I recently shipped an analytics platform that is 93% faster than the Tableau it replaced.
+I build high-performance data systems. In my current role at a software product company, I recently shipped an analytics platform for our enterprise clients that is 93% faster than the Tableau it replaced.
 
 ---
 
 ### Experience
 
 **Software Engineer II** _at_ Simpliphy (_2025 – Present_)
-- Architected, built, deployed, and extended a full-stack analytics web application that replaced Tableau.
+- Proposed, architected, built, deployed, and extended a full-stack analytics web application that replaced Tableau for our enterprise clients.
 - Achieved a 93% latency reduction on the most computationally intensive dashboards.
 - Designed high-performance architecture: MySQL (db) -> DuckDB (cache) -> Golang (api) -> Nginx (proxy) -> React (spa)
 - Improved UX, aesthetics, and reliability while removing vendor lock-in with a fully open-source, self-hosted stack.
@@ -51,8 +51,8 @@ I build high-performance data systems. In my current role at a software product 
 ---
 
 ### Technical Competencies
-- Database internals, performance engineering, Zig
-
+- Database internals, performance engineering
+  
 ---
 
 ### Education
