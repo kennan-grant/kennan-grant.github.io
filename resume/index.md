@@ -37,6 +37,7 @@ I build high-performance data systems. In my current role at a software product 
 
 **Software Engineer I** _at_ Simpliphy (_2024_)
 - Built a documentation chatbot back when that was cool.
+- Pioneered production-grade AI-first software development at Simpliphy.
 
 **Data Science Engineer** _at_ Metis Machine (_2018_)
 - Built an ML pipeline for a classification model in Python and Spark SQL.
