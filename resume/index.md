@@ -23,7 +23,7 @@ Greenville, SC • kennangrant [ at ] gmail [ dot ] com
 
 ---
 
-I build high-performance data systems. In my current role at a software product company, I recently shipped an analytics platform for our enterprise clients that is 93% faster than the legacy product it replaced.
+I build high-performance data systems. In my current role at a software product company, I recently shipped an analytics platform for our enterprise clients that is 93% faster than our legacy product it replaced.
 
 ---
 
