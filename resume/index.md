@@ -42,15 +42,15 @@ Full-stack engineer specializing in data-intensive applications and performance 
 - Founded the company’s internal AI practice — an AI channel, weekly talks, and shared tooling — driving adoption of agentic development; multiple engineers credit significant productivity gains to this influence.
 - Built a production documentation chatbot and established the company’s first agentic AI development practices.
 
+**Career Break** (*2019 – 2023*)
+
+- Stepped away from tech and worked in hospitality (bartending and serving) in Miami before returning to engineering with renewed focus.
+
 **Data Science Engineer** *at* Metis Machine (*2018*)
 
 - Built an ML pipeline for a classification model in Python and Spark SQL.
 - Detected and removed a “future leak” in legacy training data that had inflated accuracy by 25 percentage points.
 - Engineered new features and retrained the model on clean data, restoring reliable performance.
-
-**Career Break** (*2019 – 2023*)
-
-- Stepped away from tech and worked in hospitality (bartending and serving) in Miami before returning to engineering with renewed focus.
 
 **Data Analyst** *at* Elder Research (*2016 – 2017*)
 
