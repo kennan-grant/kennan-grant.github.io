@@ -39,6 +39,7 @@ Full-stack engineer specializing in data-intensive applications and performance 
 - Architected the stack end to end: MySQL (db) → DuckDB (cache) → Go (api) → Nginx (proxy) → React (spa).
 - Diagnosed a gap in data-system ownership — no directly responsible individual, and misaligned incentives between product and engineering — and persuaded leadership to move analytics engineers under engineering, aligning accountability for long-lived data integrity.
 - Proposed and led migration of analytics pipelines from fragile MySQL stored procedures to an orchestrated Snowflake pipeline (Dagster/Prefect) with retries and observability the prior system lacked; cut the nightly data pull from hours to **under an hour** via parallelization, making client data reliably ready each morning.
+- **Resolved a months-long nightly replica outage:** traced failures to non-sargable modulo sharding in Prefect that multiplied query load ~10x rather than dividing it. Replaced with range-based partitioning, stabilizing nightly loads and customer reporting.
 - Founded the company’s internal AI practice — an AI channel, weekly talks, and shared tooling — driving adoption of agentic development across the engineering team.
 - Currently building an agentic support layer enabling the client team to self-serve answers about dashboard logic.
 
