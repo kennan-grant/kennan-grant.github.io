@@ -36,14 +36,16 @@ Full-stack engineer specializing in data-intensive applications and performance 
 - Contributed to **$3M** in new ARR in which the analytics platform was a differentiating part of the enterprise product bundle.
 - Achieved a **93% latency reduction** versus the legacy product on the most computationally intensive dashboards.
 - Delivered capabilities the legacy tool could not: version-controlled and testable calculation logic, direct inspectability for client Q&A, custom UX and brand coherence, and elimination of vendor lock-in.
-- Architected the stack end to end: MySQL (db) → DuckDB (cache) → Go (api) → Nginx (proxy) → React (spa).
+- Architected the stack end to end: MySQL (db) → DuckDB (cache) → Go (api) → Nginx (proxy) → React (spa). Roughly 125K lines of Go and TypeScript across 23 interactive analytics pages, operated as a one-person engineering team.
+- Designed the multi-tenant security model: per-tenant DuckDB databases with row-level security as the source of truth, a backend capability registry with explicit route classification, and drift tests that keep routes, capabilities, and navigation aligned as pages are added.
 - Diagnosed a gap in data-system ownership (no directly responsible individual, and misaligned incentives between product and engineering) and persuaded leadership to move analytics engineers under engineering, aligning accountability for long-lived data integrity.
-- Proposed and led migration of analytics pipelines from fragile MySQL stored procedures to an orchestrated Snowflake pipeline (Dagster/Prefect) with retries and observability the prior system lacked; cut the nightly data pull from hours to **under an hour** via parallelization, making client data reliably ready each morning.
+- Proposed and led migration of analytics pipelines from fragile MySQL stored procedures to an orchestrated Snowflake pipeline (Dagster/Prefect) with retries and observability the prior system lacked; cut the nightly data pull from hours to **under an hour** via parallelization, making client data reliably ready each morning. Validated the cutover with side-by-side parity snapshots of MySQL-built and Snowflake-built caches.
 - **Resolved a months-long nightly replica outage:** traced failures to non-sargable modulo sharding in Prefect that multiplied query load ~10x rather than dividing it. Replaced with range-based partitioning, stabilizing nightly loads and customer reporting.
 - Founded the company’s internal AI practice (AI channel, weekly talks, shared tooling) and drove adoption of agentic development across the engineering team.
 - Built **Yggdrasil**, a Go CLI/TUI (~50K LOC incl. tests) that lets me supervise many AI coding agents at once. Each agent works in its own git worktree with a dedicated branch, port block, and tmux workspace; agents signal through lifecycle hooks when they need me, and I can triage and respond from my phone. This tooling is how one engineer shipped the analytics platform solo.
 - Every significant change starts from a spec. I authored an agent skill that produces design docs with explicit goals and non-goals, boundary contracts, invariants, and verifiable acceptance criteria, written so work can be handed between humans and agents without losing context.
 - Agent output is held to **IguanaStyle**, my adaptation of TigerBeetle’s TigerStyle for application-layer Go: asserted invariants, explicit state transitions, no silent failure paths. The conventions live in agent-readable repo docs, are enforced by hooks, CI, and review checklists, and get refined continuously as part of the harness.
+- The agent harness improves on a deliberate loop: after tasks, agents log mishaps and automation opportunities to a pattern log, and periodic reviews of that log decide whether to write a new skill, refine an existing one, or change policy. More than two dozen skills now cover root-cause analysis, CI repair, browser smoke checks, and supervised production data repairs.
 - Currently building an agentic support layer enabling the client team to self-serve answers about dashboard logic.
 
 **Career Break** (*2019 – 2023*)
@@ -81,7 +83,7 @@ Full-stack engineer specializing in data-intensive applications and performance 
 - **Web:** React, Nginx, full-stack architecture, REST APIs
 - **Orchestration & infra:** Dagster/Prefect, replication, self-hosted open-source deployments
 - **AI / agentic:** multi-agent orchestration, agentic development workflows, harness engineering, LLM-powered application features, internal enablement
-- **Focus areas:** performance engineering, database internals, data-intensive systems, data-pipeline reliability
+- **Focus areas:** performance engineering, database internals, data-intensive systems, data-pipeline reliability, multi-tenant security
 
 ---
 
