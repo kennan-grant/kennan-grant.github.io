@@ -23,7 +23,7 @@ Greenville, SC • [kennan.grant@gmail.com](mailto:kennan.grant@gmail.com)
 
 ---
 
-Full-stack engineer specializing in data-intensive applications and performance engineering. I find the strategic problem — technical or organizational — before writing code, place deliberate bets, and own them to production. Most recently I replaced a vendor analytics platform with a self-hosted full-stack system that is **93% faster** on the heaviest dashboards — built solo from proposal to deployment — then drove the architecture and team-structure changes that made it sustainable.
+Full-stack engineer specializing in data-intensive applications and performance engineering. I find the strategic problem, technical or organizational, before writing code, place deliberate bets, and own them to production. Most recently I replaced a vendor analytics platform with a self-hosted full-stack system that is **93% faster** on the heaviest dashboards, built solo from proposal to deployment, then drove the architecture and team-structure changes that made it sustainable.
 
 ---
 
@@ -37,13 +37,13 @@ Full-stack engineer specializing in data-intensive applications and performance 
 - Achieved a **93% latency reduction** versus the legacy product on the most computationally intensive dashboards.
 - Delivered capabilities the legacy tool could not: version-controlled and testable calculation logic, direct inspectability for client Q&A, custom UX and brand coherence, and elimination of vendor lock-in.
 - Architected the stack end to end: MySQL (db) → DuckDB (cache) → Go (api) → Nginx (proxy) → React (spa).
-- Diagnosed a gap in data-system ownership — no directly responsible individual, and misaligned incentives between product and engineering — and persuaded leadership to move analytics engineers under engineering, aligning accountability for long-lived data integrity.
+- Diagnosed a gap in data-system ownership (no directly responsible individual, and misaligned incentives between product and engineering) and persuaded leadership to move analytics engineers under engineering, aligning accountability for long-lived data integrity.
 - Proposed and led migration of analytics pipelines from fragile MySQL stored procedures to an orchestrated Snowflake pipeline (Dagster/Prefect) with retries and observability the prior system lacked; cut the nightly data pull from hours to **under an hour** via parallelization, making client data reliably ready each morning.
 - **Resolved a months-long nightly replica outage:** traced failures to non-sargable modulo sharding in Prefect that multiplied query load ~10x rather than dividing it. Replaced with range-based partitioning, stabilizing nightly loads and customer reporting.
-- Founded the company’s internal AI practice — an AI channel, weekly talks, and shared tooling — driving adoption of agentic development across the engineering team.
-- Built **Yggdrasil**, a Go CLI/TUI (~50K LOC incl. tests) for supervising many AI coding agents in parallel — each agent isolated in its own git worktree with dedicated branch, port block, and tmux workspace, with hook-driven attention routing that lets me triage and respond to agents from my phone — the force multiplier behind delivering the analytics platform solo.
-- Drive development spec-first: authored a spec-authoring agent skill producing design docs with explicit goals/non-goals, boundary contracts, invariants, and verifiable acceptance criteria — designed as durable handoff artifacts that survive agent context resets.
-- Hold agent output to codified standards: **IguanaStyle**, my application-layer adaptation of TigerBeetle’s TigerStyle (asserted invariants, explicit state transitions, no silent failure paths), written as agent-readable conventions enforced via hooks, CI, and review checklists, and continuously refined through harness engineering.
+- Founded the company’s internal AI practice (AI channel, weekly talks, shared tooling) and drove adoption of agentic development across the engineering team.
+- Built **Yggdrasil**, a Go CLI/TUI (~50K LOC incl. tests) that lets me supervise many AI coding agents at once. Each agent works in its own git worktree with a dedicated branch, port block, and tmux workspace; agents signal through lifecycle hooks when they need me, and I can triage and respond from my phone. This tooling is how one engineer shipped the analytics platform solo.
+- Every significant change starts from a spec. I authored an agent skill that produces design docs with explicit goals and non-goals, boundary contracts, invariants, and verifiable acceptance criteria, written so work can be handed between humans and agents without losing context.
+- Agent output is held to **IguanaStyle**, my adaptation of TigerBeetle’s TigerStyle for application-layer Go: asserted invariants, explicit state transitions, no silent failure paths. The conventions live in agent-readable repo docs, are enforced by hooks, CI, and review checklists, and get refined continuously as part of the harness.
 - Currently building an agentic support layer enabling the client team to self-serve answers about dashboard logic.
 
 **Career Break** (*2019 – 2023*)
@@ -66,11 +66,11 @@ Full-stack engineer specializing in data-intensive applications and performance 
 
 ### Selected Projects
 
-**Eru** — local-first, agent-operated study engine (Go, DuckDB)
+**Eru** — an agent-operated study engine (Go, DuckDB)
 
-- Citation-grounded RAG over a personal corpus: ingestion, chunking, and embedding pipeline whose retrieval preserves document/page/block provenance, so every answer is auditable against its sources.
-- Designed as an agent control surface, not an app: JSON-first CLI with handles, bounded lists, dry-runs, and explicit permission gates for remote model calls.
-- Operated as a full agent-tutored learning system: a companion workspace of durable agent instructions encodes the pedagogy — concept-first mental models, source-grounded Q&A, conservative reading-progress bookkeeping, append-only learning memory — turning a general coding agent into a grounded tutor.
+- Citation-grounded RAG over a personal study corpus held in a local DuckDB file: ingestion, chunking, and OpenAI embeddings, with retrieval that preserves document, page, and block provenance so every answer can be audited against its source.
+- The interface is a CLI built for agents to drive: JSON output, stable handles, bounded lists, dry-runs, and explicit permission gates on remote model calls.
+- In daily use, Codex or Claude Code acts as the tutor. A companion workspace encodes the pedagogy in agent instructions (build the conceptual model first, answer only from cited sources, track reading progress conservatively), and Eru supplies grounded retrieval plus the review and grading loop.
 
 ---
 
