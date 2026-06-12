@@ -64,6 +64,16 @@ Full-stack engineer specializing in data-intensive applications and performance 
 
 ---
 
+### Selected Projects
+
+**Eru** — local-first, agent-operated study engine (Go, DuckDB)
+
+- Citation-grounded RAG over a personal corpus: ingestion, chunking, and embedding pipeline whose retrieval preserves document/page/block provenance, so every answer is auditable against its sources.
+- Designed as an agent control surface, not an app: JSON-first CLI with handles, bounded lists, dry-runs, and explicit permission gates for remote model calls.
+- Operated as a full agent-tutored learning system: a companion workspace of durable agent instructions encodes the pedagogy — concept-first mental models, source-grounded Q&A, conservative reading-progress bookkeeping, append-only learning memory — turning a general coding agent into a grounded tutor.
+
+---
+
 ### Technical Competencies
 
 - **Languages:** Go, Python, JavaScript/TypeScript, R, SQL
