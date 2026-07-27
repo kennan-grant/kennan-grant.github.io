@@ -77,14 +77,10 @@ Full-stack engineer specializing in data-intensive applications and performance 
 
 ---
 
-### Technical Competencies
+### Focus
 
-- **Languages:** Go, Python, JavaScript/TypeScript, R, SQL
-- **Data & analytics:** DuckDB, Snowflake, MySQL, Spark / Spark SQL, PySpark
-- **Web:** React, Nginx, full-stack architecture, REST APIs
-- **Orchestration & infra:** Dagster/Prefect, replication, self-hosted open-source deployments
-- **AI / agentic:** multi-agent orchestration, agentic development workflows, harness engineering, LLM-powered application features, internal enablement
-- **Focus areas:** performance engineering, database internals, data-intensive systems, data-pipeline reliability, multi-tenant security
+- **Depth:** performance engineering, database internals, data-intensive systems, pipeline reliability, multi-tenant security, agentic development at scale
+- **Working stack:** Go, Python, TypeScript/React · DuckDB, Snowflake, MySQL · Dagster/Prefect · self-hosted open-source infrastructure
 
 ---
 
