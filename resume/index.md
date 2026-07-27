@@ -23,7 +23,7 @@ Greenville, SC • [kennan.grant@gmail.com](mailto:kennan.grant@gmail.com)
 
 ---
 
-Full-stack engineer specializing in data-intensive applications and performance engineering. I find the strategic problem, technical or organizational, before writing code, place deliberate bets, and own them to production. Most recently I replaced a vendor analytics platform with a self-hosted full-stack system that is **93% faster** on the heaviest dashboards, built solo from proposal to deployment, then drove the architecture and team-structure changes that made it sustainable.
+Engineer specializing in data-intensive applications, performance engineering, and agent-directed software development. I find the strategic problem, technical or organizational, before writing code, place deliberate bets, and own them to production. Most recently I replaced a vendor analytics platform with a self-hosted full-stack system that is **93% faster** on the heaviest dashboards, built solo from proposal to deployment, then drove the architecture and team-structure changes that made it sustainable.
 
 ---
 
@@ -69,6 +69,12 @@ Full-stack engineer specializing in data-intensive applications and performance 
 
 ### Selected Projects
 
+**Rust Grind** — first-principles systems engineering in Rust
+
+- Building a progression of self-contained systems implementations spanning network protocols, memory allocation, synchronization, asynchronous I/O, storage engines, networking, containers, and kernel interfaces.
+- The work develops direct fluency with ownership, memory representation, concurrency, resource lifetime, operating-system interfaces, and explicit correctness boundaries.
+- Designed as the deep technical layer of an otherwise agent-first engineering practice: implementation can be delegated broadly, while the ability to reason independently about what the machine is doing is maintained deliberately.
+
 **Eru** — an agent-operated study engine (Go, DuckDB)
 
 - Citation-grounded RAG over a personal study corpus held in a local DuckDB file: ingestion, chunking, and OpenAI embeddings, with retrieval that preserves document, page, and block provenance so every answer can be audited against its source.
@@ -81,6 +87,7 @@ Full-stack engineer specializing in data-intensive applications and performance 
 
 - **Depth:** performance engineering, database internals, data-intensive systems, pipeline reliability, multi-tenant security, agentic development at scale
 - **Working stack:** Go, TypeScript/React · DuckDB, Snowflake, MySQL · Prefect · self-hosted open-source infrastructure
+- **Systems practice:** Rust through first-principles work in memory, concurrency, storage, networking, and operating-system interfaces
 
 ---
 
