@@ -67,19 +67,11 @@ Engineer specializing in data-intensive applications, performance engineering, a
 
 ---
 
-### Selected Projects
+### Independent Systems Work
 
 **Rust Grind** — first-principles systems engineering in Rust
 
-- Building a progression of self-contained systems implementations spanning network protocols, memory allocation, synchronization, asynchronous I/O, storage engines, networking, containers, and kernel interfaces.
-- The work develops direct fluency with ownership, memory representation, concurrency, resource lifetime, operating-system interfaces, and explicit correctness boundaries.
-- Designed as the deep technical layer of an otherwise agent-first engineering practice: implementation can be delegated broadly, while the ability to reason independently about what the machine is doing is maintained deliberately.
-
-**Eru** — an agent-operated study engine (Go, DuckDB)
-
-- Citation-grounded RAG over a personal study corpus held in a local DuckDB file: ingestion, chunking, and OpenAI embeddings, with retrieval that preserves document, page, and block provenance so every answer can be audited against its source.
-- The interface is a CLI built for agents to drive: JSON output, stable handles, bounded lists, dry-runs, and explicit permission gates on remote model calls.
-- In daily use, Codex or Claude Code acts as the tutor. A companion workspace encodes the pedagogy in agent instructions (build the conceptual model first, answer only from cited sources, track reading progress conservatively), and Eru supplies grounded retrieval plus the review and grading loop.
+- Building small systems components from primitives to develop direct fluency with memory, concurrency, storage, networking, and operating-system behavior.
 
 ---
 
