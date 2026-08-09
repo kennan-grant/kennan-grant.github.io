@@ -85,7 +85,7 @@ Engineer specializing in data-intensive applications, performance engineering, a
 
 ### Education
 
-- **M.S., Computer Science** *at* Georgia Institute of Technology (*Spring 2027 – 2030 expected*)
+- **M.S., Computer Science — Computing Systems** *at* Georgia Institute of Technology (*Spring 2027 – 2030 expected*)
 - **M.S., Data Science** *at* University of Virginia (*2017 – 2018*)<br>
   - GPA **3.93**<br>
   - Winner – Statistical-modeling competition. Lowest recorded error in competition’s history.<br>
