@@ -51,7 +51,7 @@ Engineer specializing in data-intensive applications, performance engineering, a
 
 **Career Break** (*2019 – 2023*)
 
-- Worked in hospitality (bartending and serving) in Miami.
+- Stepped away from engineering; worked in hospitality in Miami, completed graduate coursework in another field, then returned.
 
 **Data Science Engineer** *at* Metis Machine (*2018*)
 
