@@ -49,7 +49,7 @@ Engineer specializing in data-intensive applications, performance engineering, a
 - The agent harness improves on a deliberate loop: after tasks, agents log mishaps and automation opportunities to a pattern log, and periodic reviews of that log decide whether to write a new skill, refine an existing one, or change policy. More than two dozen skills now cover root-cause analysis, CI repair, browser smoke checks, and supervised production data repairs.
 - Currently building an agentic support layer enabling the client team to self-serve answers about dashboard logic.
 
-**Career Break** (*2019 – 2023*)
+**Career Break** (*2019 – 2024*)
 
 - Stepped away from engineering; worked in hospitality in Miami, completed graduate coursework in another field, then returned.
 
