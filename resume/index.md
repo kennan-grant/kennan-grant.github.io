@@ -85,8 +85,8 @@ Engineer specializing in data-intensive applications, performance engineering, a
 
 ### Education
 
-- **M.S. Computer Science — Computing Systems, Georgia Institute of Technology** (*expected 2030*)<br>
-  - Focus: compilers, computer architecture, GPU systems, and high-performance computing
+- **M.S., Computer Science** *at* Georgia Institute of Technology (*expected 2030*)<br>
+  - Computing Systems specialization, focused on ML systems and compilers for AI accelerators — the software side of hardware-software co-design.
 - **M.S., Data Science** *at* University of Virginia (*2017 – 2018*)<br>
   - GPA **3.93**<br>
   - Winner – Statistical-modeling competition. Lowest recorded error in competition’s history.<br>
