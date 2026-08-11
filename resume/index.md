@@ -19,7 +19,7 @@ title: Resume
   }
 </style>
 
-Greenville, SC • [kennan.grant@gmail.com](mailto:kennan.grant@gmail.com)
+Greenville, SC • [kennan.grant@gmail.com](mailto:kennan.grant@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kennangrant/)
 
 ---
 
