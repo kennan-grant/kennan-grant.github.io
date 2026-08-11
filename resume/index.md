@@ -67,22 +67,6 @@ Engineer specializing in data-intensive applications, performance engineering, a
 
 ---
 
-### Independent Systems Work
-
-**Rust Grind** — first-principles systems engineering in Rust
-
-- Building small systems components from primitives to develop direct fluency with memory, concurrency, storage, networking, and operating-system behavior.
-
----
-
-### Focus
-
-- **Depth:** performance engineering, database internals, data-intensive systems, pipeline reliability, multi-tenant security, agentic development at scale
-- **Working stack:** Go, TypeScript/React · DuckDB, Snowflake, MySQL · Prefect · self-hosted open-source infrastructure
-- **Systems practice:** Rust through first-principles work in memory, concurrency, storage, networking, and operating-system interfaces
-
----
-
 ### Education
 
 - **M.S., Computer Science** *at* Georgia Institute of Technology (*expected 2030*)<br>
