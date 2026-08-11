@@ -29,8 +29,9 @@ Engineer specializing in data-intensive applications, performance engineering, a
 
 ### Experience
 
-**Software Engineer (I → II)** *at* Simpliphy (*2024 – Present*)
+**Software Engineer II** *at* Simpliphy (*2024 – Present*)
 
+- Promoted from Software Engineer I to Software Engineer II; first non-founding engineer to be granted equity.
 - Identified a strategic mismatch between the company’s analytics product vision and its existing tooling (embedded Tableau), and made the case to leadership for a full-stack, open-source replacement.
 - Placed an early bet that agentic AI development had matured enough to match the iteration speed of BI tools — then proved it: built the MVP solo and drove it to full functional parity within a year.
 - Contributed to **$3M** in new ARR in which the analytics platform was a differentiating part of the enterprise product bundle.
