@@ -23,7 +23,7 @@ Greenville, SC • [kennan.grant@gmail.com](mailto:kennan.grant@gmail.com) • [
 
 ---
 
-Founder and CTO at Stormlamp AI, operating at the intersection of AI engineering, systems architecture, and performance engineering.
+Founder and CTO at Stormlamp AI, building at the intersection of AI engineering, systems architecture, and performance engineering.
 
 ---
 
