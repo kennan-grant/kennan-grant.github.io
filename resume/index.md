@@ -31,7 +31,7 @@ Founder and CTO at Stormlamp AI, building at the intersection of AI engineering,
 
 **Founder/CTO** *at* [Stormlamp AI](https://stormlamp.ai) (*2026 – Present*)
 
-- Independent software studio building artificial intelligence (AI) applications and the systems that support them.
+- Designs and builds autonomous AI software systems.
 
 **Software Engineer II** *at* Simpliphy (*2024 – 2026*)
 
