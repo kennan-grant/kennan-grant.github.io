@@ -23,7 +23,7 @@ Greenville, SC • [kennan.grant@gmail.com](mailto:kennan.grant@gmail.com) • [
 
 ---
 
-Engineer specializing in data-intensive applications, performance engineering, and agent-directed software development. I find the strategic problem, technical or organizational, before writing code, place deliberate bets, and own them to production. At Simpliphy, I replaced a vendor analytics platform with a self-hosted full-stack system that is **93% faster** on the heaviest dashboards, built solo from proposal to deployment, then drove the architecture and team-structure changes that made it sustainable.
+Founder and CTO at Stormlamp AI, operating at the intersection of AI engineering, systems architecture, and performance engineering.
 
 ---
 
