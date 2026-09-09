@@ -52,7 +52,6 @@ Founder and CTO at Stormlamp AI, building at the intersection of AI engineering,
 - Started every significant change from a spec. I authored an agent skill that produces design docs with explicit goals and non-goals, boundary contracts, invariants, and verifiable acceptance criteria, written so work can be handed between humans and agents without losing context.
 - Held agent output to **IguanaStyle**, my adaptation of TigerBeetle’s TigerStyle for application-layer Go: asserted invariants, explicit state transitions, no silent failure paths. The conventions lived in agent-readable repo docs, were enforced by hooks, CI, and review checklists, and were refined continuously as part of the harness.
 - Improved the agent harness through a deliberate loop: after tasks, agents logged mishaps and automation opportunities to a pattern log, and periodic reviews of that log informed whether to write a new skill, refine an existing one, or change policy. More than two dozen skills covered root-cause analysis, CI repair, browser smoke checks, and supervised production data repairs.
-- Began building an agentic support layer to enable the client team to self-serve answers about dashboard logic.
 
 **Career Break** (*2019 – 2024*)
 
