@@ -33,9 +33,13 @@ Founder and CTO at Stormlamp AI, building at the intersection of AI engineering,
 
 - Designs and builds autonomous AI software systems.
 
-**Software Engineer II** *at* Simpliphy (*2024 – 2026*)
+**Simpliphy** (*Apr 2024 – Sep 2026*)
 
-- Promoted from Software Engineer I to Software Engineer II; first non-founding engineer to be granted equity.
+**Software Engineer II** · *Nov 2025 – Sep 2026*<br>
+**Machine Learning Engineer** · *Aug 2024 – Nov 2025*<br>
+**Software Engineer I** · *Apr 2024 – Aug 2024*
+
+- First non-founding engineer to be granted equity.
 - Identified a strategic mismatch between the company’s analytics product vision and its existing tooling (embedded Tableau), and made the case to leadership for a full-stack, open-source replacement.
 - Placed an early bet that agentic AI development had matured enough to match the iteration speed of BI tools — then proved it: built the MVP solo and drove it to full functional parity within a year.
 - Contributed to **$3M** in new ARR in which the analytics platform was a differentiating part of the enterprise product bundle.
@@ -52,7 +56,6 @@ Founder and CTO at Stormlamp AI, building at the intersection of AI engineering,
 - Started every significant change from a spec. I authored an agent skill that produces design docs with explicit goals and non-goals, boundary contracts, invariants, and verifiable acceptance criteria, written so work can be handed between humans and agents without losing context.
 - Held agent output to **IguanaStyle**, my adaptation of TigerBeetle’s TigerStyle for application-layer Go: asserted invariants, explicit state transitions, no silent failure paths. The conventions lived in agent-readable repo docs, were enforced by hooks, CI, and review checklists, and were refined continuously as part of the harness.
 - Improved the agent harness through a deliberate loop: after tasks, agents logged mishaps and automation opportunities to a pattern log, and periodic reviews of that log informed whether to write a new skill, refine an existing one, or change policy. More than two dozen skills covered root-cause analysis, CI repair, browser smoke checks, and supervised production data repairs.
-- (Was promoted twice in 14 months: first from SWE 1 to Machine Learning Engineer, then from Machine Learning Engineer to SWE 2.)
 
 **Career Break** (*2019 – 2024*)
 
