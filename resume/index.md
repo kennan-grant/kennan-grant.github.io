@@ -33,11 +33,9 @@ Founder and CTO at Stormlamp AI, building at the intersection of AI engineering,
 
 - Designs and builds autonomous AI software systems.
 
-**Simpliphy** (*Apr 2024 – Sep 2026*)
-
-**Software Engineer II** · *Nov 2025 – Sep 2026*<br>
-**Machine Learning Engineer** · *Aug 2024 – Nov 2025*<br>
-**Software Engineer I** · *Apr 2024 – Aug 2024*
+**Software Engineer II** *at* Simpliphy (*Nov 2025 – Sep 2026*)<br>
+**Machine Learning Engineer** (*Aug 2024 – Nov 2025*)<br>
+**Software Engineer I** (*Apr 2024 – Aug 2024*)
 
 - First non-founding engineer to be granted equity.
 - Identified a strategic mismatch between the company’s analytics product vision and its existing tooling (embedded Tableau), and made the case to leadership for a full-stack, open-source replacement.
