@@ -19,7 +19,7 @@ title: Resume
   }
 </style>
 
-Greenville, SC • [LinkedIn](https://www.linkedin.com/in/kennangrant/)
+Greenville, SC • [LinkedIn](https://www.linkedin.com/in/kennangrant/) • [X: @liminalpelican](https://x.com/liminalpelican)
 
 ---
 
